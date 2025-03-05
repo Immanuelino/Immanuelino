@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Immanuelino/Immanuelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Immanuel Inocencio,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Project Manager/Full Stack Developer.
+
+I have previously worked as a:
+
+Project Manager in Buzone.
+Trainee in Grupo Salinas.
+Project Management Analyst in Vesta Immobiliaries.
+Tech Support/Customer Support Agent in TTEC.
+Etc.
+
+At the moment I am specializing in Full Stack Development.
+
+I am an avid learner.
+I seek constant improvement.
