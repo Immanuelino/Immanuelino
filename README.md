@@ -17,3 +17,7 @@ At the moment I am specializing in Full Stack Development.
 
 I am an avid learner.
 I seek constant improvement.
+
+
+Estadísticas de GitHub: https://github-readme-stats.vercel.app/api?username=Immanuelino
+Lenguajes más usados: https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuelino
