@@ -1,30 +1,42 @@
-## Hi there 👋
+My name is Immanuel Inocencio:
+------------------------------------------------------
+
+Project Manager | Full Stack Developer.
+
+-------------------------------------
+
+| Work Experience |
+
+°Project Manager in Buzone.
+°Trainee in Grupo Salinas.
+°Project Management Analyst in Vesta Immobiliaries.
+°Tech Support/Customer Support Agent in TTEC.
+°Etc.
+
+-> At the moment I am a specialized Full Stack Developer.
+
+-------------------------------------
+
+| Some Soft skills |
+
+°I am a fast learner.
+°I seek constant improvement.
+
+-------------------------------------
+
+| Coding Statistics |
+
+°Estadísticas de GitHub: https://github-readme-stats.vercel.app/api?username=Immanuelino
+°Lenguajes más usados: https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuelino
+
+-------------------------------------
 
 
-My name is Immanuel Inocencio,
-
-I am a Project Manager/Full Stack Developer.
-
-I have previously worked as a:
-
-Project Manager in Buzone.
-Trainee in Grupo Salinas.
-Project Management Analyst in Vesta Immobiliaries.
-Tech Support/Customer Support Agent in TTEC.
-Etc.
-
-At the moment I am specializing in Full Stack Development.
-
-I am an avid learner.
-I seek constant improvement.
+| Projects |
 
 
-Estadísticas de GitHub: https://github-readme-stats.vercel.app/api?username=Immanuelino
-Lenguajes más usados: https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuelino
-
-
-
-Projects:
+{
+-------------------------------------
 https://github.com/Immanuelino/ebac-bootstrap
 https://github.com/Immanuelino/practica12-ecommerce-2024
 https://github.com/Immanuelino/practica13-ecommerce
@@ -62,4 +74,6 @@ https://github.com/Immanuelino/M67_Autenticaci-n-en-Django-Rest-Framework
 https://github.com/Immanuelino/M68_Web-Scraping
 https://github.com/Immanuelino/Proyecto_5M
 https://github.com/Immanuelino/Immanuelino
-![image](https://github.com/user-attachments/assets/b75d7822-b667-4582-b2b0-efd0998bc5d4)
+https://github.com/user-attachments/assets/b75d7822-b667-4582-b2b0-efd0998bc5d4
+-------------------------------------
+}
